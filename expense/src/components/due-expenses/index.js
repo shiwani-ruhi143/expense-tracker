@@ -49,7 +49,7 @@ const DueExpenses = () => {
       </div>
       <div className="bills-information">
         <div className="color"></div>
-        <span>Highlighed Bills That Can Be Paid</span>
+        <span>Highlighted Bills Can Be Paid!</span>
       </div>
       <div className="table">
         <div className="table-container">
